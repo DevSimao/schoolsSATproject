@@ -14,7 +14,7 @@ We have been provided with a dataset called `schools.csv`, which is previewed be
 Our aim is to answer three key questions about New York City (NYC) public school SAT performance:
 - Which NYC schools have the best math results? Atleast 80%
 - What are the top 10 performing schools based on the combined SAT scores?
-- # Which single borough has the largest standard deviation in the combined SAT score?
+- Which single borough has the largest standard deviation in the combined SAT score?
 
 # Skills employed and Methods used:
 - Pandas Library: This code utilizes the Pandas library extensively for data manipulation and analysis.
